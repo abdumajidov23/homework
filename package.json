@@ -1,0 +1,22 @@
+{
+  "name": "3-homework-6-iti-info",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Javohir Viktorov",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.12",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.3"
+  }
+}
