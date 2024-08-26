@@ -6,7 +6,7 @@
     "dev": "node --watch app.js"
   },
   "keywords": [],
-  "author": "Javohir Viktorov",
+  "author": "Alijon",
   "license": "ISC",
   "description": "",
   "dependencies": {
